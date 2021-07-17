@@ -1,0 +1,8 @@
+.userCard {
+  background-color: aqua;
+  width: 30% !important;
+  height: 10rem !important;
+  border-radius: 2%;
+  margin: 1rem 1rem;
+  padding: auto;
+}
